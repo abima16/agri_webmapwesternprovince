@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "_note": "DEMO DATA ONLY \u2014 3 sample reports to demonstrate the reporting functionality. Real public reports will be collected via the Google Form and will replace these.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0152,
+          7.0248
+        ]
+      },
+      "properties": {
+        "issue_type": "Blocked Canal",
+        "severity": "High",
+        "description": "DEMO REPORT \u2014 Main irrigation canal near paddy fields blocked by overgrown vegetation.",
+        "duration": "More than 6 months",
+        "affected": "Farmers / paddy cultivators",
+        "role": "Farmer",
+        "date": "2025-08-10",
+        "district": "Gampaha",
+        "division": "Ja-Ela",
+        "latitude": "7.0248",
+        "longitude": "80.0152",
+        "status": "DEMO \u2014 Not a real submission"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0841,
+          6.8932
+        ]
+      },
+      "properties": {
+        "issue_type": "Agricultural Land Encroachment",
+        "severity": "High",
+        "description": "DEMO REPORT \u2014 New construction observed on previously registered paddy land.",
+        "duration": "Less than 1 month",
+        "affected": "Multiple groups",
+        "role": "Community member",
+        "date": "2025-10-01",
+        "district": "Colombo",
+        "division": "Kaduwela",
+        "latitude": "6.8932",
+        "longitude": "80.0841",
+        "status": "DEMO \u2014 Not a real submission"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2134,
+          6.6823
+        ]
+      },
+      "properties": {
+        "issue_type": "Flooding Affecting Agricultural Land",
+        "severity": "High",
+        "description": "DEMO REPORT \u2014 Seasonal flooding damaged paddy crop near Kalu Ganga.",
+        "duration": "1 to 6 months",
+        "affected": "Farmers / paddy cultivators",
+        "role": "Farmer",
+        "date": "2025-06-20",
+        "district": "Kalutara",
+        "division": "Matugama",
+        "latitude": "6.6823",
+        "longitude": "80.2134",
+        "status": "DEMO \u2014 Not a real submission"
+      }
+    }
+  ]
+}
